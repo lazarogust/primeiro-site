@@ -13,3 +13,5 @@ Tornar seu site responsivo para diferentes tamanhos de tela
 Site do projeto:
 
 https://primeiro-site-virid.vercel.app/index.html
+
+https://imgur.com/rtmHd4v.png
