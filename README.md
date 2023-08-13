@@ -1,4 +1,4 @@
-# primeiro-site
+# Meu Primeiro Site - Curso Alura
 
 O que eu aprendi no primeiro curso da alura - front-end:
 
